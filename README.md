@@ -37,7 +37,7 @@ studentapp/
 
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/username/studentapp-springboot.git
+   git clone https://github.com/lipprendy123/studentapp-springboot.git
    cd studentapp-springboot
 
 2. Jalankan aplikasi menggunakan Maven:
